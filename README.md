@@ -10,6 +10,6 @@ API : OpenWeather
 
 http://localhost:3000/
 
-http://localhost:3000/rails_admin
+http://localhost:3000/admin
 
 http://localhost:3000/crono
